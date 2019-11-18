@@ -4,7 +4,7 @@
 
  
 def key_for_min_value(name_hash)
- name_hash.min { |a,b| a[:name_hash] <=> b[:name_hash] }
+ 
  
 end 
 
